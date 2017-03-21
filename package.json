@@ -1,13 +1,18 @@
 {
   "name": "chirp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Futuristic CLI app helper",
   "repository": "lukebro/chirp",
   "main": "index.js",
   "scripts": {
     "test": "xo && ava"
   },
-  "keywords": ["chirp", "cli", "app", "helper"],
+  "keywords": [
+    "chirp",
+    "cli",
+    "app",
+    "helper"
+  ],
   "author": "Lukasz Brodowski <lukebrodowski@gmail.com> (http://lukebro.com/)",
   "license": "MIT",
   "devDependencies": {
