@@ -4,7 +4,7 @@ Currently still in development.  Updates can be viewed under the "dev" branch.
 
 # chirp
 
-> Futuristic CLI app helper
+> CLI app helper
 
 ## License
 
